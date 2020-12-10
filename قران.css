@@ -1,0 +1,64 @@
+@charset "utf-8";
+body {
+	background-color: #F9CDF0;
+}
+.header-container header .logo {
+    color: #315E97;
+    font-size: 150px;
+    text-align: right;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-top: -41px;
+}
+.header-container header p {
+	color: #FF060A;
+	font-size: 100px;
+	text-align: right;
+	margin-top: -35px;
+	margin-right: 134px;
+}
+.container img {
+    margin-left: 155px;
+    margin-top: 31px;
+
+
+}
+.header-container header nav {
+    padding-right: 25px;
+    padding-left: 282px;
+    padding-bottom: 10px;
+    margin-left: 34px;
+    padding-top: 10px;
+    margin-top: -88px;
+
+
+
+
+
+}
+
+header nav .mybutton {
+    margin-left: 18px;
+    padding-left: 52px;
+    border-style: inset;
+    font-size: 47px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 4px;
+    padding-right: 0px;
+    padding-bottom: 4px;
+    border-width: thick;
+}
+header nav1 .mybutton {
+    border-style: ridge;
+    border-width: thick;
+    margin-left: -4px;
+    padding-left: 37px;
+    font-size: 24px;
+    text-decoration: none;
+    text-align: center;
+}
+.container {
+    float: right;
+    margin-left: 92px;
+    margin-right: -162px;
+}
